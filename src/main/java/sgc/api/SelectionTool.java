@@ -1,4 +1,4 @@
-package sgc.api.gui;
+package sgc.api;
 
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;

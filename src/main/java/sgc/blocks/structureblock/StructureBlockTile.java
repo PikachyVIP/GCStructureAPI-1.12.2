@@ -2,14 +2,13 @@ package sgc.blocks.structureblock;
 
 import net.minecraft.init.Blocks;
 import net.minecraft.nbt.NBTTagCompound;
-import net.minecraft.util.ITickable;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.WorldServer;
 import net.minecraft.world.gen.structure.template.PlacementSettings;
 import net.minecraft.world.gen.structure.template.Template;
 import net.minecraft.world.gen.structure.template.TemplateManager;
-import sgc.api.gui.AbstractAreaTile;
+import sgc.api.AbstractAreaTile;
 
 public class StructureBlockTile extends AbstractAreaTile {
     public StructureBlockTile(){

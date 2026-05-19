@@ -1,4 +1,4 @@
-package sgc.api.gui;
+package sgc.api;
 
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.nbt.NBTTagCompound;

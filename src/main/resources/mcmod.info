@@ -1,0 +1,13 @@
+[{
+  "modid": "sgc",
+  "name": "StructureGC API",
+  "version": "1.12.2",
+  "mcversion": "${mcversion}",
+  "authorList": ["Pikachy"],
+  "url": "",
+  "updateUrl": "",
+  "logoFile": "banner.png",
+  "description": "",
+  "screenshots": [],
+  "dependencies": []
+}]
